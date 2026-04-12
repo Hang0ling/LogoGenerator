@@ -1,0 +1,5 @@
+{
+  "name": "LogoGen AI",
+  "description": "智能网站Logo生成器 - 输入名称一键生成SVG/PNG图标，支持自动抠图与尺寸调整",
+  "requestFramePermissions": []
+}
